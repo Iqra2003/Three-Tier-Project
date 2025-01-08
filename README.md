@@ -1,24 +1,6 @@
 This repository contains the implementation of a Three-Tier Architecture project. The project is divided into three distinct layers,
 each handling a specific responsibility to ensure modularity, scalability, and maintainability.
 
-Project Structure
-three-tier-project/
-
-├── DBAL/         # Database Access Layer
-
-│   └── Handles interactions with the database
-
-├── BLL/          # Business Logic Layer
-
-│   └── Implements the core logic of the application
-
-├── UI/           # User Interface Layer
-
-│   └── Provides the front-end interface for users
-
-└── README.md     # Project description and instructions
-
-
 Features
 
 Database Access Layer (DBAL):
