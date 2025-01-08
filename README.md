@@ -1,7 +1,7 @@
 This repository contains the implementation of a Three-Tier Architecture project. The project is divided into three distinct layers,
 each handling a specific responsibility to ensure modularity, scalability, and maintainability.
 
-Features
+-------Features-------
 
 Database Access Layer (DBAL):
 
@@ -17,8 +17,10 @@ Provides a user-friendly interface for interaction.
 Captures user input and displays data.
 
 
-Technologies Used
+------Technologies Used------
 
 Programming Language: Python
+
 Database: SQL
+
 IDE: IDLE (Integrated Development and Learning Environment)
